@@ -8,11 +8,10 @@ npm install --save-dev babel-preset-nunez
 
 ### Add to your `.babelrc` file
 
-```json
+```
 {
   "presets": ["nunez"],
-  // or
-  "presets": ["babel-preset-nunez"]
+  "presets": ["babel-preset-nunez"] // equivalent
 }
 ```
 
